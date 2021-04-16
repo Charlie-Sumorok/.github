@@ -1,2 +1,2 @@
 # .github
-Default files for my repositories
+> Default files for my repositories
